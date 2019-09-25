@@ -2,6 +2,10 @@
 
 ## Overview
 waterPy is a Raspberry Pi-based auto irrigation system. 
+
+This is my very first application. It involves Web development, database operations and Embedded development.
+Technologies used: Python, Flask, OpenWeatherMap, Analog-to-Digital conversion, SQLite, HTSQL, freeboard.io
+
 ![IMG_4361](https://user-images.githubusercontent.com/40592382/54769011-fbe9f380-4c32-11e9-913b-3795ea201c1f.jpg)
 
 
